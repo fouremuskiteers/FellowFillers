@@ -1,0 +1,5 @@
+com/mybasket/launcher/MyBasketLauncher.class
+com/mybasket/entities/Registration.class
+com/mybasket/controller/CustomerController.class
+com/mybasket/entities/Customer.class
+com/mybasket/entities/Car.class
