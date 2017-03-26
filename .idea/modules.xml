@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Registration.iml" filepath="$PROJECT_DIR$/Registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBasket.iml" filepath="$PROJECT_DIR$/MyBasket.iml" />
     </modules>
   </component>
 </project>
