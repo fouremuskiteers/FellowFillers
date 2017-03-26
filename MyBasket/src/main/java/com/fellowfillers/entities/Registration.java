@@ -1,4 +1,4 @@
-package com.mybasket.entities;
+package com.fellowfillers.entities;
 
 /**
  * Created by ssaha on 3/23/17.
