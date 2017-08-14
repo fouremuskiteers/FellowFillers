@@ -1,4 +1,4 @@
-package com.mybasket.entities;
+package com.fellowfillers.entities;
 
 import java.math.BigInteger;
 
