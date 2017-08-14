@@ -1,0 +1,299 @@
+2017-08-13 14:51:56 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-08-13 14:51:56 DEBUG Recycler:97 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-08-13 14:51:56 DEBUG Recycler:98 - -Dio.netty.recycler.linkCapacity: 16
+2017-08-13 14:51:56 DEBUG Recycler:99 - -Dio.netty.recycler.ratio: 8
+2017-08-13 14:51:56 DEBUG AbstractByteBuf:52 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-08-13 14:51:56 DEBUG ResourceLeakDetectorFactory:140 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2f9d1848
+2017-08-13 14:51:56 DEBUG RequestHandlerServiceVerticle:55 - In the POST call of RequestHandlerService 
+2017-08-13 14:53:04 DEBUG RequestHandlerServiceVerticle:55 - In the POST call of RequestHandlerService 
+2017-08-13 14:55:41 DEBUG RequestHandlerServiceVerticle:55 - In the POST call of RequestHandlerService 
+2017-08-13 21:09:13 DEBUG InternalLoggerFactory:59 - Using Log4J as the default logging framework
+2017-08-13 21:09:13 DEBUG ResourceLeakDetector:106 - -Dio.netty.leakDetection.level: simple
+2017-08-13 21:09:13 DEBUG ResourceLeakDetector:107 - -Dio.netty.leakDetection.maxRecords: 4
+2017-08-13 21:09:13 DEBUG MultithreadEventLoopGroup:43 - -Dio.netty.eventLoopThreads: 8
+2017-08-13 21:09:13 DEBUG PlatformDependent0:87 - java.nio.Buffer.address: available
+2017-08-13 21:09:13 DEBUG PlatformDependent0:123 - sun.misc.Unsafe.theUnsafe: available
+2017-08-13 21:09:13 DEBUG PlatformDependent0:147 - sun.misc.Unsafe.copyMemory: available
+2017-08-13 21:09:13 DEBUG PlatformDependent0:194 - direct buffer constructor: available
+2017-08-13 21:09:13 DEBUG PlatformDependent0:243 - java.nio.Bits.unaligned: available, true
+2017-08-13 21:09:13 DEBUG PlatformDependent0:255 - java.nio.DirectByteBuffer.<init>(long, int): available
+2017-08-13 21:09:13 DEBUG Cleaner0:67 - java.nio.ByteBuffer.cleaner(): available
+2017-08-13 21:09:13 DEBUG PlatformDependent:972 - Platform: Windows
+2017-08-13 21:09:13 DEBUG PlatformDependent:1079 - Java version: 8
+2017-08-13 21:09:13 DEBUG PlatformDependent:1116 - -Dio.netty.noUnsafe: false
+2017-08-13 21:09:13 DEBUG PlatformDependent:1151 - sun.misc.Unsafe: available
+2017-08-13 21:09:13 DEBUG PlatformDependent:1226 - -Dio.netty.noJavassist: false
+2017-08-13 21:09:13 DEBUG PlatformDependent:1239 - Javassist: unavailable
+2017-08-13 21:09:13 DEBUG PlatformDependent:1240 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-08-13 21:09:13 DEBUG PlatformDependent:1258 - -Dio.netty.tmpdir: C:\Users\AVUTUK~1\AppData\Local\Temp (java.io.tmpdir)
+2017-08-13 21:09:13 DEBUG PlatformDependent:1337 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-08-13 21:09:13 DEBUG PlatformDependent:118 - -Dio.netty.noPreferDirect: false
+2017-08-13 21:09:13 DEBUG PlatformDependent:154 - io.netty.maxDirectMemory: 1884815360 bytes
+2017-08-13 21:09:13 DEBUG NioEventLoop:111 - -Dio.netty.noKeySetOptimization: false
+2017-08-13 21:09:13 DEBUG NioEventLoop:112 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-08-13 21:09:13 DEBUG PlatformDependent:870 - org.jctools-core.MpscChunkedArrayQueue: available
+2017-08-13 21:09:15 DEBUG DnsServerAddresses:68 - Default DNS servers: [/192.168.1.1:53] (sun.net.dns.ResolverConfiguration)
+2017-08-13 21:09:15 DEBUG NetUtil:136 - -Djava.net.preferIPv4Stack: false
+2017-08-13 21:09:15 DEBUG NetUtil:137 - -Djava.net.preferIPv6Addresses: false
+2017-08-13 21:09:15 DEBUG NetUtil:218 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-08-13 21:09:15 DEBUG NetUtil:269 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-08-13 21:09:15 DEBUG RequestHandlerServiceVerticle:21 - In the Start method
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:107 - -Dio.netty.allocator.numHeapArenas: 8
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:108 - -Dio.netty.allocator.numDirectArenas: 8
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:110 - -Dio.netty.allocator.pageSize: 8192
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:115 - -Dio.netty.allocator.maxOrder: 11
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:119 - -Dio.netty.allocator.chunkSize: 16777216
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:120 - -Dio.netty.allocator.tinyCacheSize: 512
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:121 - -Dio.netty.allocator.smallCacheSize: 256
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:122 - -Dio.netty.allocator.normalCacheSize: 64
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:123 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-08-13 21:09:16 DEBUG PooledByteBufAllocator:124 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-08-13 21:09:16 DEBUG DefaultChannelId:86 - -Dio.netty.processId: 19096 (auto-detected)
+2017-08-13 21:09:16 DEBUG DefaultChannelId:106 - -Dio.netty.machineId: 34:02:86:ff:fe:9f:2e:a5 (auto-detected)
+2017-08-13 21:09:16 DEBUG ThreadLocalRandom:226 - -Dio.netty.initialSeedUniquifier: 0x21baa7dabff46680
+2017-08-13 21:09:16 DEBUG ByteBufUtil:80 - -Dio.netty.allocator.type: pooled
+2017-08-13 21:09:16 DEBUG ByteBufUtil:89 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-08-13 21:09:16 DEBUG ByteBufUtil:92 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-08-13 21:09:36 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-08-13 21:09:36 DEBUG Recycler:97 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-08-13 21:09:36 DEBUG Recycler:98 - -Dio.netty.recycler.linkCapacity: 16
+2017-08-13 21:09:36 DEBUG Recycler:99 - -Dio.netty.recycler.ratio: 8
+2017-08-13 21:09:36 DEBUG AbstractByteBuf:52 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-08-13 21:09:36 DEBUG ResourceLeakDetectorFactory:140 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4169e23c
+2017-08-13 21:09:36 DEBUG RequestHandlerServiceVerticle:55 - In the POST call of RequestHandlerService 
+2017-08-13 21:09:56 DEBUG RequestHandlerServiceVerticle:55 - In the POST call of RequestHandlerService 
+2017-08-13 21:18:49 DEBUG InternalLoggerFactory:59 - Using Log4J as the default logging framework
+2017-08-13 21:18:49 DEBUG ResourceLeakDetector:106 - -Dio.netty.leakDetection.level: simple
+2017-08-13 21:18:49 DEBUG ResourceLeakDetector:107 - -Dio.netty.leakDetection.maxRecords: 4
+2017-08-13 21:18:49 DEBUG MultithreadEventLoopGroup:43 - -Dio.netty.eventLoopThreads: 8
+2017-08-13 21:18:49 DEBUG PlatformDependent0:87 - java.nio.Buffer.address: available
+2017-08-13 21:18:49 DEBUG PlatformDependent0:123 - sun.misc.Unsafe.theUnsafe: available
+2017-08-13 21:18:49 DEBUG PlatformDependent0:147 - sun.misc.Unsafe.copyMemory: available
+2017-08-13 21:18:49 DEBUG PlatformDependent0:194 - direct buffer constructor: available
+2017-08-13 21:18:49 DEBUG PlatformDependent0:243 - java.nio.Bits.unaligned: available, true
+2017-08-13 21:18:49 DEBUG PlatformDependent0:255 - java.nio.DirectByteBuffer.<init>(long, int): available
+2017-08-13 21:18:49 DEBUG Cleaner0:67 - java.nio.ByteBuffer.cleaner(): available
+2017-08-13 21:18:49 DEBUG PlatformDependent:972 - Platform: Windows
+2017-08-13 21:18:49 DEBUG PlatformDependent:1079 - Java version: 8
+2017-08-13 21:18:49 DEBUG PlatformDependent:1116 - -Dio.netty.noUnsafe: false
+2017-08-13 21:18:49 DEBUG PlatformDependent:1151 - sun.misc.Unsafe: available
+2017-08-13 21:18:49 DEBUG PlatformDependent:1226 - -Dio.netty.noJavassist: false
+2017-08-13 21:18:49 DEBUG PlatformDependent:1239 - Javassist: unavailable
+2017-08-13 21:18:49 DEBUG PlatformDependent:1240 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-08-13 21:18:49 DEBUG PlatformDependent:1258 - -Dio.netty.tmpdir: C:\Users\AVUTUK~1\AppData\Local\Temp (java.io.tmpdir)
+2017-08-13 21:18:49 DEBUG PlatformDependent:1337 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-08-13 21:18:49 DEBUG PlatformDependent:118 - -Dio.netty.noPreferDirect: false
+2017-08-13 21:18:49 DEBUG PlatformDependent:154 - io.netty.maxDirectMemory: 1884815360 bytes
+2017-08-13 21:18:49 DEBUG NioEventLoop:111 - -Dio.netty.noKeySetOptimization: false
+2017-08-13 21:18:49 DEBUG NioEventLoop:112 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-08-13 21:18:49 DEBUG PlatformDependent:870 - org.jctools-core.MpscChunkedArrayQueue: available
+2017-08-13 21:18:49 DEBUG DnsServerAddresses:68 - Default DNS servers: [/192.168.1.1:53] (sun.net.dns.ResolverConfiguration)
+2017-08-13 21:18:49 DEBUG NetUtil:136 - -Djava.net.preferIPv4Stack: false
+2017-08-13 21:18:49 DEBUG NetUtil:137 - -Djava.net.preferIPv6Addresses: false
+2017-08-13 21:18:49 DEBUG NetUtil:218 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-08-13 21:18:49 DEBUG NetUtil:269 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-08-13 21:18:49 DEBUG RequestHandlerServiceVerticle:21 - In the Start method
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:107 - -Dio.netty.allocator.numHeapArenas: 8
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:108 - -Dio.netty.allocator.numDirectArenas: 8
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:110 - -Dio.netty.allocator.pageSize: 8192
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:115 - -Dio.netty.allocator.maxOrder: 11
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:119 - -Dio.netty.allocator.chunkSize: 16777216
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:120 - -Dio.netty.allocator.tinyCacheSize: 512
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:121 - -Dio.netty.allocator.smallCacheSize: 256
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:122 - -Dio.netty.allocator.normalCacheSize: 64
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:123 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-08-13 21:18:50 DEBUG PooledByteBufAllocator:124 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-08-13 21:18:50 DEBUG DefaultChannelId:86 - -Dio.netty.processId: 18896 (auto-detected)
+2017-08-13 21:18:50 DEBUG DefaultChannelId:106 - -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-08-13 21:18:50 DEBUG ThreadLocalRandom:226 - -Dio.netty.initialSeedUniquifier: 0xf83242ed08b47898
+2017-08-13 21:18:50 DEBUG ByteBufUtil:80 - -Dio.netty.allocator.type: pooled
+2017-08-13 21:18:50 DEBUG ByteBufUtil:89 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-08-13 21:18:50 DEBUG ByteBufUtil:92 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-08-13 21:19:20 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-08-13 21:19:20 DEBUG Recycler:97 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-08-13 21:19:20 DEBUG Recycler:98 - -Dio.netty.recycler.linkCapacity: 16
+2017-08-13 21:19:20 DEBUG Recycler:99 - -Dio.netty.recycler.ratio: 8
+2017-08-13 21:19:20 DEBUG AbstractByteBuf:52 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-08-13 21:19:20 DEBUG ResourceLeakDetectorFactory:140 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@52602b9d
+2017-08-13 21:19:20 DEBUG RequestHandlerServiceVerticle:55 - In the POST call of RequestHandlerService 
+2017-08-13 21:19:20 DEBUG RequestHandlerServiceVerticle:58 - JSON Object: null
+2017-08-13 21:21:14 DEBUG RequestHandlerServiceVerticle:55 - In the POST call of RequestHandlerService 
+2017-08-13 21:21:14 DEBUG RequestHandlerServiceVerticle:58 - JSON Object: null
+2017-08-13 21:30:59 DEBUG RequestHandlerServiceVerticle:55 - In the POST call of RequestHandlerService 
+2017-08-13 21:30:59 DEBUG RequestHandlerServiceVerticle:58 - JSON Object: null
+2017-08-13 21:42:25 DEBUG InternalLoggerFactory:59 - Using Log4J as the default logging framework
+2017-08-13 21:42:25 DEBUG ResourceLeakDetector:106 - -Dio.netty.leakDetection.level: simple
+2017-08-13 21:42:25 DEBUG ResourceLeakDetector:107 - -Dio.netty.leakDetection.maxRecords: 4
+2017-08-13 21:42:25 DEBUG MultithreadEventLoopGroup:43 - -Dio.netty.eventLoopThreads: 8
+2017-08-13 21:42:25 DEBUG PlatformDependent0:87 - java.nio.Buffer.address: available
+2017-08-13 21:42:25 DEBUG PlatformDependent0:123 - sun.misc.Unsafe.theUnsafe: available
+2017-08-13 21:42:25 DEBUG PlatformDependent0:147 - sun.misc.Unsafe.copyMemory: available
+2017-08-13 21:42:25 DEBUG PlatformDependent0:194 - direct buffer constructor: available
+2017-08-13 21:42:25 DEBUG PlatformDependent0:243 - java.nio.Bits.unaligned: available, true
+2017-08-13 21:42:25 DEBUG PlatformDependent0:255 - java.nio.DirectByteBuffer.<init>(long, int): available
+2017-08-13 21:42:25 DEBUG Cleaner0:67 - java.nio.ByteBuffer.cleaner(): available
+2017-08-13 21:42:25 DEBUG PlatformDependent:972 - Platform: Windows
+2017-08-13 21:42:25 DEBUG PlatformDependent:1079 - Java version: 8
+2017-08-13 21:42:25 DEBUG PlatformDependent:1116 - -Dio.netty.noUnsafe: false
+2017-08-13 21:42:25 DEBUG PlatformDependent:1151 - sun.misc.Unsafe: available
+2017-08-13 21:42:25 DEBUG PlatformDependent:1226 - -Dio.netty.noJavassist: false
+2017-08-13 21:42:25 DEBUG PlatformDependent:1239 - Javassist: unavailable
+2017-08-13 21:42:25 DEBUG PlatformDependent:1240 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-08-13 21:42:25 DEBUG PlatformDependent:1258 - -Dio.netty.tmpdir: C:\Users\AVUTUK~1\AppData\Local\Temp (java.io.tmpdir)
+2017-08-13 21:42:25 DEBUG PlatformDependent:1337 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-08-13 21:42:25 DEBUG PlatformDependent:118 - -Dio.netty.noPreferDirect: false
+2017-08-13 21:42:25 DEBUG PlatformDependent:154 - io.netty.maxDirectMemory: 1884815360 bytes
+2017-08-13 21:42:25 DEBUG NioEventLoop:111 - -Dio.netty.noKeySetOptimization: false
+2017-08-13 21:42:25 DEBUG NioEventLoop:112 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-08-13 21:42:25 DEBUG PlatformDependent:870 - org.jctools-core.MpscChunkedArrayQueue: available
+2017-08-13 21:42:27 DEBUG DnsServerAddresses:68 - Default DNS servers: [/192.168.1.1:53] (sun.net.dns.ResolverConfiguration)
+2017-08-13 21:42:27 DEBUG NetUtil:136 - -Djava.net.preferIPv4Stack: false
+2017-08-13 21:42:27 DEBUG NetUtil:137 - -Djava.net.preferIPv6Addresses: false
+2017-08-13 21:42:27 DEBUG NetUtil:218 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-08-13 21:42:27 DEBUG NetUtil:269 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-08-13 21:42:27 DEBUG RequestHandlerServiceVerticle:22 - In the Start method
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:107 - -Dio.netty.allocator.numHeapArenas: 8
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:108 - -Dio.netty.allocator.numDirectArenas: 8
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:110 - -Dio.netty.allocator.pageSize: 8192
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:115 - -Dio.netty.allocator.maxOrder: 11
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:119 - -Dio.netty.allocator.chunkSize: 16777216
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:120 - -Dio.netty.allocator.tinyCacheSize: 512
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:121 - -Dio.netty.allocator.smallCacheSize: 256
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:122 - -Dio.netty.allocator.normalCacheSize: 64
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:123 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-08-13 21:42:27 DEBUG PooledByteBufAllocator:124 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-08-13 21:42:27 DEBUG DefaultChannelId:86 - -Dio.netty.processId: 10856 (auto-detected)
+2017-08-13 21:42:27 DEBUG DefaultChannelId:106 - -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-08-13 21:42:27 DEBUG ThreadLocalRandom:226 - -Dio.netty.initialSeedUniquifier: 0xea35e6e4c8cc5768
+2017-08-13 21:42:27 DEBUG ByteBufUtil:80 - -Dio.netty.allocator.type: pooled
+2017-08-13 21:42:27 DEBUG ByteBufUtil:89 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-08-13 21:42:27 DEBUG ByteBufUtil:92 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-08-13 21:43:36 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-08-13 21:43:36 DEBUG Recycler:97 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-08-13 21:43:36 DEBUG Recycler:98 - -Dio.netty.recycler.linkCapacity: 16
+2017-08-13 21:43:36 DEBUG Recycler:99 - -Dio.netty.recycler.ratio: 8
+2017-08-13 21:43:36 DEBUG AbstractByteBuf:52 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-08-13 21:43:36 DEBUG ResourceLeakDetectorFactory:140 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3b47547a
+2017-08-13 21:43:36 DEBUG RequestHandlerServiceVerticle:57 - In the POST call of RequestHandlerService 
+2017-08-13 21:43:36 DEBUG RequestHandlerServiceVerticle:62 - JSON Object: {"name":"JD","origin":"USA"}
+2017-08-13 21:44:09 DEBUG RequestHandlerServiceVerticle:57 - In the POST call of RequestHandlerService 
+2017-08-13 21:44:09 DEBUG RequestHandlerServiceVerticle:62 - JSON Object: {"name":"JD","origin":"USA"}
+2017-08-14 12:16:21 DEBUG InternalLoggerFactory:59 - Using Log4J as the default logging framework
+2017-08-14 12:16:21 DEBUG ResourceLeakDetector:106 - -Dio.netty.leakDetection.level: simple
+2017-08-14 12:16:21 DEBUG ResourceLeakDetector:107 - -Dio.netty.leakDetection.maxRecords: 4
+2017-08-14 12:16:21 DEBUG MultithreadEventLoopGroup:43 - -Dio.netty.eventLoopThreads: 8
+2017-08-14 12:16:21 DEBUG PlatformDependent0:87 - java.nio.Buffer.address: available
+2017-08-14 12:16:21 DEBUG PlatformDependent0:123 - sun.misc.Unsafe.theUnsafe: available
+2017-08-14 12:16:21 DEBUG PlatformDependent0:147 - sun.misc.Unsafe.copyMemory: available
+2017-08-14 12:16:21 DEBUG PlatformDependent0:194 - direct buffer constructor: available
+2017-08-14 12:16:21 DEBUG PlatformDependent0:243 - java.nio.Bits.unaligned: available, true
+2017-08-14 12:16:21 DEBUG PlatformDependent0:255 - java.nio.DirectByteBuffer.<init>(long, int): available
+2017-08-14 12:16:21 DEBUG Cleaner0:67 - java.nio.ByteBuffer.cleaner(): available
+2017-08-14 12:16:21 DEBUG PlatformDependent:972 - Platform: Windows
+2017-08-14 12:16:21 DEBUG PlatformDependent:1079 - Java version: 8
+2017-08-14 12:16:21 DEBUG PlatformDependent:1116 - -Dio.netty.noUnsafe: false
+2017-08-14 12:16:21 DEBUG PlatformDependent:1151 - sun.misc.Unsafe: available
+2017-08-14 12:16:21 DEBUG PlatformDependent:1226 - -Dio.netty.noJavassist: false
+2017-08-14 12:16:21 DEBUG PlatformDependent:1239 - Javassist: unavailable
+2017-08-14 12:16:21 DEBUG PlatformDependent:1240 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-08-14 12:16:21 DEBUG PlatformDependent:1258 - -Dio.netty.tmpdir: C:\Users\AVUTUK~1\AppData\Local\Temp (java.io.tmpdir)
+2017-08-14 12:16:21 DEBUG PlatformDependent:1337 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-08-14 12:16:21 DEBUG PlatformDependent:118 - -Dio.netty.noPreferDirect: false
+2017-08-14 12:16:21 DEBUG PlatformDependent:154 - io.netty.maxDirectMemory: 1884815360 bytes
+2017-08-14 12:16:21 DEBUG NioEventLoop:111 - -Dio.netty.noKeySetOptimization: false
+2017-08-14 12:16:21 DEBUG NioEventLoop:112 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-08-14 12:16:21 DEBUG PlatformDependent:870 - org.jctools-core.MpscChunkedArrayQueue: available
+2017-08-14 12:16:23 DEBUG DnsServerAddresses:68 - Default DNS servers: [/10.30.14.15:53, /10.40.14.172:53] (sun.net.dns.ResolverConfiguration)
+2017-08-14 12:16:23 DEBUG NetUtil:136 - -Djava.net.preferIPv4Stack: false
+2017-08-14 12:16:23 DEBUG NetUtil:137 - -Djava.net.preferIPv6Addresses: false
+2017-08-14 12:16:24 DEBUG NetUtil:218 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-08-14 12:16:24 DEBUG NetUtil:269 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-08-14 12:16:24 DEBUG RequestHandlerServiceVerticle:22 - In the Start method
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:107 - -Dio.netty.allocator.numHeapArenas: 8
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:108 - -Dio.netty.allocator.numDirectArenas: 8
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:110 - -Dio.netty.allocator.pageSize: 8192
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:115 - -Dio.netty.allocator.maxOrder: 11
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:119 - -Dio.netty.allocator.chunkSize: 16777216
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:120 - -Dio.netty.allocator.tinyCacheSize: 512
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:121 - -Dio.netty.allocator.smallCacheSize: 256
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:122 - -Dio.netty.allocator.normalCacheSize: 64
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:123 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-08-14 12:16:24 DEBUG PooledByteBufAllocator:124 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-08-14 12:16:24 DEBUG DefaultChannelId:86 - -Dio.netty.processId: 9520 (auto-detected)
+2017-08-14 12:16:24 DEBUG DefaultChannelId:106 - -Dio.netty.machineId: 34:e6:d7:ff:fe:66:28:29 (auto-detected)
+2017-08-14 12:16:24 DEBUG ThreadLocalRandom:226 - -Dio.netty.initialSeedUniquifier: 0xb206cb5f38c7051a
+2017-08-14 12:16:24 DEBUG ByteBufUtil:80 - -Dio.netty.allocator.type: pooled
+2017-08-14 12:16:24 DEBUG ByteBufUtil:89 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-08-14 12:16:24 DEBUG ByteBufUtil:92 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-08-14 12:16:35 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-08-14 12:16:35 DEBUG Recycler:97 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-08-14 12:16:35 DEBUG Recycler:98 - -Dio.netty.recycler.linkCapacity: 16
+2017-08-14 12:16:35 DEBUG Recycler:99 - -Dio.netty.recycler.ratio: 8
+2017-08-14 12:16:35 DEBUG AbstractByteBuf:52 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-08-14 12:16:35 DEBUG ResourceLeakDetectorFactory:140 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5376c19
+2017-08-14 12:18:18 DEBUG RequestHandlerServiceVerticle:69 - In the POST call of RequestHandlerService 
+2017-08-14 12:18:18 DEBUG RequestHandlerServiceVerticle:72 - JSON Object: 
+2017-08-14 12:19:02 DEBUG RequestHandlerServiceVerticle:69 - In the POST call of RequestHandlerService 
+2017-08-14 12:19:02 DEBUG RequestHandlerServiceVerticle:72 - JSON Object: {"name":"JD","origin":"USA"}
+2017-08-14 15:06:40 DEBUG InternalLoggerFactory:59 - Using Log4J as the default logging framework
+2017-08-14 15:06:40 DEBUG ResourceLeakDetector:106 - -Dio.netty.leakDetection.level: simple
+2017-08-14 15:06:40 DEBUG ResourceLeakDetector:107 - -Dio.netty.leakDetection.maxRecords: 4
+2017-08-14 15:06:40 DEBUG MultithreadEventLoopGroup:43 - -Dio.netty.eventLoopThreads: 8
+2017-08-14 15:06:40 DEBUG PlatformDependent0:87 - java.nio.Buffer.address: available
+2017-08-14 15:06:40 DEBUG PlatformDependent0:123 - sun.misc.Unsafe.theUnsafe: available
+2017-08-14 15:06:40 DEBUG PlatformDependent0:147 - sun.misc.Unsafe.copyMemory: available
+2017-08-14 15:06:40 DEBUG PlatformDependent0:194 - direct buffer constructor: available
+2017-08-14 15:06:40 DEBUG PlatformDependent0:243 - java.nio.Bits.unaligned: available, true
+2017-08-14 15:06:40 DEBUG PlatformDependent0:255 - java.nio.DirectByteBuffer.<init>(long, int): available
+2017-08-14 15:06:40 DEBUG Cleaner0:67 - java.nio.ByteBuffer.cleaner(): available
+2017-08-14 15:06:40 DEBUG PlatformDependent:972 - Platform: Windows
+2017-08-14 15:06:40 DEBUG PlatformDependent:1079 - Java version: 8
+2017-08-14 15:06:40 DEBUG PlatformDependent:1116 - -Dio.netty.noUnsafe: false
+2017-08-14 15:06:40 DEBUG PlatformDependent:1151 - sun.misc.Unsafe: available
+2017-08-14 15:06:40 DEBUG PlatformDependent:1226 - -Dio.netty.noJavassist: false
+2017-08-14 15:06:40 DEBUG PlatformDependent:1239 - Javassist: unavailable
+2017-08-14 15:06:40 DEBUG PlatformDependent:1240 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-08-14 15:06:40 DEBUG PlatformDependent:1258 - -Dio.netty.tmpdir: C:\Users\AVUTUK~1\AppData\Local\Temp (java.io.tmpdir)
+2017-08-14 15:06:40 DEBUG PlatformDependent:1337 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-08-14 15:06:40 DEBUG PlatformDependent:118 - -Dio.netty.noPreferDirect: false
+2017-08-14 15:06:40 DEBUG PlatformDependent:154 - io.netty.maxDirectMemory: 1884815360 bytes
+2017-08-14 15:06:40 DEBUG NioEventLoop:111 - -Dio.netty.noKeySetOptimization: false
+2017-08-14 15:06:40 DEBUG NioEventLoop:112 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-08-14 15:06:40 DEBUG PlatformDependent:870 - org.jctools-core.MpscChunkedArrayQueue: available
+2017-08-14 15:06:42 DEBUG DnsServerAddresses:68 - Default DNS servers: [/10.30.14.15:53, /10.40.14.172:53] (sun.net.dns.ResolverConfiguration)
+2017-08-14 15:06:42 DEBUG NetUtil:136 - -Djava.net.preferIPv4Stack: false
+2017-08-14 15:06:42 DEBUG NetUtil:137 - -Djava.net.preferIPv6Addresses: false
+2017-08-14 15:06:42 DEBUG NetUtil:218 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-08-14 15:06:42 DEBUG NetUtil:269 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-08-14 15:06:42 DEBUG RequestHandlerServiceVerticle:23 - In the Start method
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:107 - -Dio.netty.allocator.numHeapArenas: 8
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:108 - -Dio.netty.allocator.numDirectArenas: 8
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:110 - -Dio.netty.allocator.pageSize: 8192
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:115 - -Dio.netty.allocator.maxOrder: 11
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:119 - -Dio.netty.allocator.chunkSize: 16777216
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:120 - -Dio.netty.allocator.tinyCacheSize: 512
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:121 - -Dio.netty.allocator.smallCacheSize: 256
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:122 - -Dio.netty.allocator.normalCacheSize: 64
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:123 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-08-14 15:06:42 DEBUG PooledByteBufAllocator:124 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-08-14 15:06:42 DEBUG DefaultChannelId:86 - -Dio.netty.processId: 12356 (auto-detected)
+2017-08-14 15:06:42 DEBUG DefaultChannelId:106 - -Dio.netty.machineId: 34:e6:d7:ff:fe:66:28:29 (auto-detected)
+2017-08-14 15:06:42 DEBUG ThreadLocalRandom:226 - -Dio.netty.initialSeedUniquifier: 0x8387f711412c35ab
+2017-08-14 15:06:42 DEBUG ByteBufUtil:80 - -Dio.netty.allocator.type: pooled
+2017-08-14 15:06:42 DEBUG ByteBufUtil:89 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-08-14 15:06:42 DEBUG ByteBufUtil:92 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-08-14 15:23:09 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-08-14 15:23:09 DEBUG Recycler:97 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-08-14 15:23:09 DEBUG Recycler:98 - -Dio.netty.recycler.linkCapacity: 16
+2017-08-14 15:23:09 DEBUG Recycler:99 - -Dio.netty.recycler.ratio: 8
+2017-08-14 15:23:09 DEBUG AbstractByteBuf:52 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-08-14 15:23:09 DEBUG ResourceLeakDetectorFactory:140 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5d44ef5d
+2017-08-14 15:23:09 DEBUG RequestHandlerServiceVerticle:70 - In the POST call of RequestHandlerService 
+2017-08-14 15:23:09 DEBUG RequestHandlerServiceVerticle:71 - JSON Object: {"requestId":"1234","userId":"5678","fillLocation":"Mass","vehiclePlateNumber":"ABC123","gasQuantity":"5.0","gasType":"Premium"}
+2017-08-14 15:23:10 DEBUG RequestHandlerServiceVerticle:75 - Request Object: requestId: 1234
+userId: 5678
+fillLocation: Mass
+vehiclePlateNumber: ABC123
+gasQuantity: 5.0
+gasType: Premium
+
